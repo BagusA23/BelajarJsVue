@@ -50,8 +50,7 @@ C:.
         ├── index.js
         ├── Laporan_Belajar_Hari1_JS.pdf
         └── Latihan.js
-
-            
+```   
 
 
 ---
