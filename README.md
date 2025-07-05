@@ -39,22 +39,18 @@ Fokus utama: menguasai JavaScript modern (ES6+), memahami Vue 3 Composition API,
 
 ## 📂 Struktur Folder
 
-BelajarJsVue/
-├── (./MingguPertama/)
-│ ├── latihan.js
-│ ├── laporan.pdf
-│ └── README.md
-├── hari-02-function/
-│ ├── latihan.js
-│ └── README.md
-├── hari-03-array-method/
-│ └── latihan.js
-├── public/
-│ └── favicon.ico
-├── .gitignore
-├── package.json
-├── vite.config.js
-└── README.md
+﻿Folder PATH listing
+Volume serial number is FE0E-CACF
+C:.
+ª   README.md
+ª   struktur.txt
+ª   
++---MingguPertama
+    +---HariPertama
+            index.js
+            Laporan_Belajar_Hari1_JS.pdf
+            Latihan.js
+            
 
 
 ---
