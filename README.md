@@ -39,17 +39,18 @@ Fokus utama: menguasai JavaScript modern (ES6+), memahami Vue 3 Composition API,
 
 ## 📂 Struktur Folder
 
-﻿Folder PATH listing
-Volume serial number is FE0E-CACF
+## 📁 Struktur Folder
+
+```text
 C:.
-ª   README.md
-ª   struktur.txt
-ª   
-+---MingguPertama
-    +---HariPertama
-            index.js
-            Laporan_Belajar_Hari1_JS.pdf
-            Latihan.js
+├── README.md
+├── struktur.txt
+└── MingguPertama
+    └── HariPertama
+        ├── index.js
+        ├── Laporan_Belajar_Hari1_JS.pdf
+        └── Latihan.js
+
             
 
 
