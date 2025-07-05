@@ -42,7 +42,6 @@ Fokus utama: menguasai JavaScript modern (ES6+), memahami Vue 3 Composition API,
 ## 📁 Struktur Folder
 
 ```text
-C:.
 ├── README.md
 ├── struktur.txt
 └── MingguPertama
