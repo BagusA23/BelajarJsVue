@@ -1,3 +1,12 @@
+# 🚀 Belajar JavaScript & Vue.js
+
+![Last Commit](https://img.shields.io/github/last-commit/bagusA23/BelajarJsVue)
+![Repo Size](https://img.shields.io/github/repo-size/bagusA23/BelajarJsVue)
+![Top Language](https://img.shields.io/github/languages/top/bagusA23/BelajarJsVue)
+![License](https://img.shields.io/github/license/bagusA23/BelajarJsVue)
+![Stars](https://img.shields.io/github/stars/bagusA23/BelajarJsVue?style=social)
+![Forks](https://img.shields.io/github/forks/bagusdev/bagusA23/BelajarJsVue?style=social)
+
 # 🚀 Roadmap Belajar JavaScript & Vue.js – by Bagus Ardiansyah
 
 Ini adalah repo dokumentasi & catatan pribadi gue dalam proses belajar JavaScript dan Vue.js.  
@@ -31,14 +40,6 @@ Fokus utama: menguasai JavaScript modern (ES6+), memahami Vue 3 Composition API,
 ## 📂 Struktur Folder
 
 
-# 🚀 Belajar JavaScript & Vue.js
-
-![Last Commit](https://img.shields.io/github/last-commit/bagusA23/BelajarJsVue)
-![Repo Size](https://img.shields.io/github/repo-size/bagusdev/belajar-vue-js)
-![Top Language](https://img.shields.io/github/languages/top/bagusdev/belajar-vue-js)
-![License](https://img.shields.io/github/license/bagusdev/belajar-vue-js)
-![Stars](https://img.shields.io/github/stars/bagusdev/belajar-vue-js?style=social)
-![Forks](https://img.shields.io/github/forks/bagusdev/belajar-vue-js?style=social)
 
 
 ---
