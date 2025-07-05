@@ -5,7 +5,7 @@
 ![Top Language](https://img.shields.io/github/languages/top/bagusA23/BelajarJsVue)
 ![License](https://img.shields.io/github/license/bagusA23/BelajarJsVue)
 ![Stars](https://img.shields.io/github/stars/bagusA23/BelajarJsVue?style=social)
-![Forks](https://img.shields.io/github/forks/bagusdev/bagusA23/BelajarJsVue?style=social)
+![Forks](https://img.shields.io/github/forks/bagusA23/BelajarJsVue?style=social)
 
 # 🚀 Roadmap Belajar JavaScript & Vue.js – by Bagus Ardiansyah
 
