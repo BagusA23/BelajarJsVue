@@ -27,7 +27,7 @@ Fokus utama: menguasai JavaScript modern (ES6+), memahami Vue 3 Composition API,
 | Hari | Materi | Status |
 |------|--------|--------|
 | 1 | Variabel, Tipe Data, Array, Object | ✅ Selesai |
-| 2 | Function & Arrow Function | ✅ On Progress |
+| 2 | Function & Arrow Function | ✅ Selesai |
 | 3 | Array Method (`map`, `filter`) | 🔜 |
 | 4 | Destructuring, Spread/Rest | 🔜 |
 | 5 | Async/Await & Fetch API | 🔜 |
