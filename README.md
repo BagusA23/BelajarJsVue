@@ -55,6 +55,7 @@ Fokus utama: menguasai JavaScript modern (ES6+), memahami Vue 3 Composition API,
         ├── index.js
         ├── Laporan_Belajar_Hari2_JS.pdf
         └── Latihan.js
+        └── Latihan2.js
 ```   
 
 
