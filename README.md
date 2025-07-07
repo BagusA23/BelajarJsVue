@@ -37,8 +37,6 @@ Fokus utama: menguasai JavaScript modern (ES6+), memahami Vue 3 Composition API,
 
 ---
 
-## 📂 Struktur Folder
-
 ## 📁 Struktur Folder
 
 ```text
