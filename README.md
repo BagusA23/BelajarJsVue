@@ -60,6 +60,10 @@ Fokus utama: menguasai JavaScript modern (ES6+), memahami Vue 3 Composition API,
         ├── index.js
         ├── Laporan_Belajar_Hari4_JS.pdf
         └── Latihan.js
+     └── HariKelima
+        ├── index.js
+        ├── Laporan_Belajar_Hari4_JS.pdf
+        └── Latihan.js
 ```   
 
 
@@ -73,6 +77,7 @@ Fokus utama: menguasai JavaScript modern (ES6+), memahami Vue 3 Composition API,
 - ✅ [Laporan Hari 2 (JavaScript Dasar)](./MingguPertama/HariKedua/Laporan_Belajar_Hari2_JS.pdf)  
 - ✅ [Laporan Hari 3 (JavaScript Dasar)](./MingguPertama/HariKetiga/Laporan_Belajar_Hari3_JS.pdf)
 - ✅ [Laporan Hari 4 (JavaScript Dasar)](./MingguPertama/HariKeempat/Laporan_Belajar_Hari4_JS.pdf)
+- ✅ [Laporan Hari 5 (JavaScript Dasar)](./MingguPertama/HariKelima/Laporan_Belajar_Hari5_JS.pdf)
 ---
 
 ## 🧰 Teknologi yang Digunakan
