@@ -30,7 +30,7 @@ Fokus utama: menguasai JavaScript modern (ES6+), memahami Vue 3 Composition API,
 | 2 | Function & Arrow Function | ✅ Selesai |
 | 3 | Array Method (`map`, `filter`) | ✅ Selesai |
 | 4 | Destructuring, Spread/Rest | ✅ Selesai |
-| 5 | Async/Await & Fetch API | 🔜 |
+| 5 | Async/Await & Fetch API | ✅ Selesai |
 | 6 | Install Vue 3 (Vite + Tailwind) | 🔜 |
 | 7 | Ref, Reactive, Template Binding | 🔜 |
 | ... | ... | ... |
